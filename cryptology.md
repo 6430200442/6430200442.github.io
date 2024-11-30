@@ -25,7 +25,7 @@
 
 ## Friend Account
 - ชื่อ นางสาวรัชนีกร ซายแก้ว ชื่นเล่น ดาว รหัสนิสิต 6430200566
-- [Friend Account GitHub](https://6430200566.github.io/cryptology/)
+- [Friend Account GitHub](https://6430200566.github.io/cryptology)
 
 ## Made by
 - ชื่อ นางสาวปทิตตา กลิ่นหอม ชื่นเล่น พลอย รหัสนิสิต 6430200442
