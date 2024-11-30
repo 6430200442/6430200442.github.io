@@ -1,9 +1,0 @@
-# config.yml
-baseurl: "https://example.com"
-languageCode: "en-us"
-title: "My Hugo Site"
-theme: "hyde"  # ตั้งค่าใช้ธีม 'hyde'
-
-params:
-  author: "John Doe"
-  description: "A site to show how YAML can configure Hugo"
