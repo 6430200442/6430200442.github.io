@@ -26,8 +26,3 @@
 ## Friend Account
 - ชื่อ นางสาวรัชนีกร ซายแก้ว ชื่นเล่น ดาว รหัสนิสิต 6430200442
 - [Friend Account GitHub](https://github.com/6430200566)
-
-.mystic-night {
-    background: linear-gradient(150deg, #483D8B, #6A5ACD, #4B0082);
-    color: #E6E6FA;
-}
