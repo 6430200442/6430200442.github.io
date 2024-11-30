@@ -25,4 +25,4 @@
 
 ## Friend Account
 - ชื่อ นางสาวรัชนีกร ซายแก้ว ชื่นเล่น ดาว รหัสนิสิต 6430200442
-- [Friend Account GitHub](https://github.com/6430200566)
+- [Friend Account GitHub](https://github.com/6430200566/cryptology)
