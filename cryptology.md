@@ -24,4 +24,4 @@
 - การทำธุรกรรมออนไลน์ ล้วนใช้ Cryptology เพื่อเข้ารหัสข้อมูลส่วนตัวและการเงินให้ปลอดภัย
 
 ## Friend Account
-- [GitHub](https://github.com/6430200566)
+- [Friend Account GitHub](https://github.com/6430200566)
