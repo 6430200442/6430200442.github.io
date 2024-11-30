@@ -25,3 +25,10 @@
 
 ## Friend Account
 - [Friend Account GitHub](https://github.com/6430200566)
+
+[CSS Code for Ocean Breeze](#ocean-breeze)
+```css
+.ocean-breeze {
+    background: linear-gradient(135deg, #00A8CC, #007EA7);
+    color: #FFFFFF;
+}
