@@ -13,6 +13,8 @@
 - ช่องทางติดต่อ
   - อีเมล : patitta.kl@ku.th
   - Microsoft team : PATITTA KLINHOM
+- การ์ดปีใหม่
+  - [คลิกที่นี่](https://6430200442.github.io/NewYearCard)
 
 ![img](img/ploy.jpg)
 
