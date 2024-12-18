@@ -1,4 +1,4 @@
-![img](img/cardNYencode.jpg)
+![img](img/cardNYencode.png)
 
 ## My Account
 - ชื่อ นางสาวปทิตตา กลิ่นหอม ชื่นเล่น พลอย รหัสนิสิต 6430200442
