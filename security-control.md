@@ -1,14 +1,16 @@
 # security control
 
-# Google Security Alert" หรือ "Sign-in Notification
+# Google Security Alert
+# or
+# Sign-in Notification
 
-## Google Security Alert" หรือ "Sign-in Notification
-- เป็นการแจ้งเตือนด้านความปลอดภัยเมื่อมีการเข้าสู่ระบบจากอุปกรณ์ใหม่ของ google เพื่อให้ผู้ใช้ตรวจสอบว่าการเข้าถึงบัญชีนั้นเป็นของตนเองหรือไม่
+## Google Security Alert
+- หรือเรียกอีกอย่างว่า Sign-in Notification เป็นการแจ้งเตือนด้านความปลอดภัยเมื่อมีการเข้าสู่ระบบจากอุปกรณ์ใหม่ของ google เพื่อให้ผู้ใช้ตรวจสอบว่าการเข้าถึงบัญชีนั้นเป็นของตนเองหรือไม่
 
 ## Location
 - Home , My account
 
-## จัดอยู่ใน Control Function ประเภทไหน ?
+## เป็น Control Function ประเภทไหน ?
 - ประเภท Detective Control
 
 ## ทำไมถึงเป็น Detective Control ?
@@ -16,7 +18,7 @@
 - ช่วยให้เจ้าของบัญชีรับรู้กิจกรรมที่อาจไม่ปลอดภัย และดำเนินการรักษาความปลอดภัยเพิ่มเติมได้ เช่น ตรวจสอบกิจกรรม หรือเปลี่ยนรหัสผ่าน
 - ไม่ได้ป้องกันการเข้าสู่ระบบโดยตรง แต่ช่วยให้ผู้ใช้สามารถตรวจสอบและดำเนินการแก้ไขด้วยตนเอง หากพบว่ามีการเข้าถึงที่ไม่ได้รับอนุญาต
 
-## จัดอยู่ใน Type of Security Control ประเภทไหน ?
+## เป็น Type of Security Control ประเภทไหน ?
 - ประเภท Technical Control
 
 ## ทำไมถึงเป็น Technical Control ?
