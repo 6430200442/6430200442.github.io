@@ -1,11 +1,7 @@
-# security control
+# Security Control
 
-# Google Security Alert
-# or
-# Sign-in Notification
-
-## Google Security Alert
-- หรือเรียกอีกอย่างว่า Sign-in Notification เป็นการแจ้งเตือนด้านความปลอดภัยเมื่อมีการเข้าสู่ระบบจากอุปกรณ์ใหม่ของ google เพื่อให้ผู้ใช้ตรวจสอบว่าการเข้าถึงบัญชีนั้นเป็นของตนเองหรือไม่
+## Google Security Alert or Sign-in Notification
+- เป็นการแจ้งเตือนด้านความปลอดภัยเมื่อมีการเข้าสู่ระบบจากอุปกรณ์ใหม่ของ google เพื่อให้ผู้ใช้ตรวจสอบว่าการเข้าถึงบัญชีนั้นเป็นของตนเองหรือไม่
 
 ## Location
 - Home , My account
