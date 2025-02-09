@@ -53,7 +53,7 @@
 [![image](img/v1.jpg)](https://youtu.be/KJcGwMrpDfo?feature=shared)
 
 ## รายชื่อสมาชิก
-- 6430200442 ปทิตตา กลิ่นหอม -> [GitHub Boardgame](https://6430200442.github.io/boardgame) 
+- 6430200442 ปทิตตา กลิ่นหอม -> [GitHub Boardgame](https://6430200442.github.io/boardgame) (Me)
 - 6430200566 รัชนีกร ซายแก้ว  -> [GitHub Boardgame](https://6430200566.github.io/boardgame)
 - 6530200797 นายวาลิด นามวิลัย      -> [GitHub Boardgame](https://9jell.github.io/boardgame)
 - 6530200801 นายศิลา กมุทตระกูลชัย  -> [GitHub Boardgame](https://sila801.github.io/boardgame)
