@@ -1,6 +1,6 @@
 # Security Requirement
 
-| **V2.1.12 Password Security** |
+<center>**V2.1.12 Password Security**</center>
 
 ## Details
   - 2.1.12 Verify that the user can choose to either temporarily view the  entire masked password, or temporarily view the last typed character of the password on platforms that do not have this as  built-in functionality
